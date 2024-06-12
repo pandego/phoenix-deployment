@@ -1,0 +1,6 @@
+# data
+database_data/
+phoenix_data/
+
+# secrets
+.env
