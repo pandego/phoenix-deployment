@@ -1,4 +1,4 @@
-# An Awesome LangSmith-like Deployment
+# An Awesome LangSmith-like (Phoenix) Deployment
 ## Intro
 Quick tuto to deploy a LangSmith-like instance using the Phoenix Docker Image.
 
@@ -19,7 +19,7 @@ Apart from that you will need somethings installed:
 - [Docker & Docker Compose](https://docs.docker.com/desktop/install/ubuntu/)
 
 # Deployment
-In order to deploy this Local ChatBot, you need to set a few things first:
+In order to deploy these services, you need to set a few things first:
 - Clone this repository and navigate into it:
   ```bash
   https://github.com/pandego/phoenix-deployment.git
